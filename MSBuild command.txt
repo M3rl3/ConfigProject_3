@@ -1,0 +1,1 @@
+MSBuild.exe .\ConfigProject_3\ -t:project_03 -property:Platform=x64 -property:Configuration=Debug
