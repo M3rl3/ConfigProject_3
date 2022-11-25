@@ -202,6 +202,5 @@
 		DestinationFile="c:\cnd\Rameez_Khatri.zip"/>
 	
   </Target>
-  <Target Name="project_03" Condition="'$(Configuration)' == 'Release'" DependsOnTargets="Build" />
   
 </Project>
