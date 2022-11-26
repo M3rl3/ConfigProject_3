@@ -1,5 +1,7 @@
 # ConfigProject_3
 
+Project repository for GDP - 2022. (Configuration & Deployment - INFO-6025)
+
 <h3> Build Instructions: </h3>
 <li>Solutuion has one project which is automatically the default project.
 <li>Built in Visual Studio 17 (2022). Retarget solution if necessary.
