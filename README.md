@@ -1,4 +1,4 @@
-# Configuration & Deployment - Project03
+# Configuration & Deployment - project03
 
 Project repository for GDP - 2022. (Configuration & Deployment - INFO-6025)
 
